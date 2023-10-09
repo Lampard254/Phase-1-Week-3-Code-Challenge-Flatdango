@@ -1,4 +1,4 @@
-const url = "https://kimathinjoki.github.io/Wk3-code-challenge-Flatdango/db.json"
+const url = "https://Lampard254.github.io/Phase-1-Week-3-Code-Challenge-Flatdango/db.json"
 
 document.addEventListener('DOMContentLoaded',()=>{
 
